@@ -1,0 +1,8 @@
+language: csharp
+mono: none
+dotnet: 6.0
+install: 
+  - dotnet restore
+scripts:
+  - dotnet build
+  - dotnet test FlickrWFATest/FlickrWFATest.csproj
