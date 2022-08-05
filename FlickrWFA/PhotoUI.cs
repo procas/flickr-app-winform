@@ -27,6 +27,7 @@ namespace FlickrWFA
         private void button1_Click(object sender, EventArgs e)
         {
             Controls.Clear();
+
             Controls.Add(textBox1);
             Controls.Add(button1);
             TextBox tb = this.textBox1 as TextBox;
