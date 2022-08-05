@@ -8,11 +8,22 @@ namespace FlickrWFATest
             // set up
             photoUIHelper = new PhotoUIHelper();
         }
-        [Fact]
-        public void Test1()
+        [Theory]
+        [InlineData("nature")]
+        public void Test1(string first)
         {
-            photoUIHelper.getUrlList("nature");
+            List<string> urlList = photoUIHelper.getUrlList(first);
+            Assert.NotNull(urlList);
         }
+
+        [Fact]
+        public void Test2()
+        {
+            List<string> urlList = photoUIHelper.getUrlList("");
+            Assert.Empty(urlList);
+
+        }
+
         public void Dispose()
         {
             //tear down

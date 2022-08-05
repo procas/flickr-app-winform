@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 //using Newtonsoft.Json.Linq;
@@ -17,7 +18,15 @@ namespace FlickrWFA.Helpers
         }
         public List<string> getUrlList(string tag)
         {
-            var urls = restClientProvider.GetUrls(tag);
+            HttpContent urls;
+            try
+            {
+                urls = restClientProvider.GetUrls(tag);
+            }
+            catch(Exception)
+            {
+                return new List<string>();
+            }
             string res = urls.ReadAsStringAsync().Result;
             List<string> list = res.Split(',').ToList();
             return list;

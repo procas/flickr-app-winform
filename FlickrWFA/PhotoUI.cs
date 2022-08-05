@@ -20,7 +20,7 @@ namespace FlickrWFA
         {
             InitializeComponent();
             this.Width = 1000;
-            this.Height = 1000;
+            this.Height = 500;
             photoUIHelper = new PhotoUIHelper();
         }
 
@@ -32,17 +32,22 @@ namespace FlickrWFA
             TextBox tb = this.textBox1 as TextBox;
             Panel panel = new Panel();
             panel.Width = 1000;
-            panel.Height = 1000;
+            panel.Height = 500;
             //if (Controls.Contains(panel))
             //    Controls.Remove(panel);
 
             if (!string.IsNullOrEmpty(tb.Text))
             {
+                Label label = new Label();
+                label.Text = "Pictures on " + tb.Text + ":";
+                label.Location = new Point(10, button1.Location.Y+40);
+
+                panel.Controls.Add(label);
                 urls = photoUIHelper.getUrlList(tb.Text);
                 tb.Text = "";
-                int y_offset = button1.Location.Y + 50;
+                int y_offset = label.Location.Y + 50;
                 int x = 0; int y = y_offset;
-                for (int i = 0; i < 20; i++)
+                for (int i = 0; i < 10; i++)
                 {
                     if (x > this.Width)
                     {
@@ -55,6 +60,7 @@ namespace FlickrWFA
                     
                     //Controls.Add(pictureBox);
                     pictureBox.Location = new Point(x, y);
+                    
                     string url = urls[i];
                     try
                     {

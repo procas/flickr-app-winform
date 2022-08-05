@@ -13,3 +13,18 @@ C:\Users\Proma_Mukherjee\source\repos\FlickrWFA\FlickrWFA\bin\Debug\FlickrWFA.ap
 C:\Users\Proma_Mukherjee\source\repos\FlickrWFA\FlickrWFA\obj\Debug\FlickrWFA.exe.manifest
 C:\Users\Proma_Mukherjee\source\repos\FlickrWFA\FlickrWFA\obj\Debug\FlickrWFA.application
 C:\Users\Proma_Mukherjee\source\repos\FlickrWFA\FlickrWFA\obj\Debug\FlickrWFA.PhotoUI.resources
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.exe.config
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.exe.manifest
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.application
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.exe
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.pdb
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.AssemblyReference.cache
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.SuggestedBindingRedirects.cache
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.PhotoUI.resources
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.Properties.Resources.resources
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.GenerateResource.cache
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.CoreCompileInputs.cache
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe.manifest
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.application
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.pdb
