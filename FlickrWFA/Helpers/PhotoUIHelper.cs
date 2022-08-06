@@ -32,6 +32,22 @@ namespace FlickrWFA.Helpers
             return list;
         }
 
+        public string getHtml(string tag)
+        {
+            HttpContent html;
+            try
+            {
+                html = restClientProvider.GetHtml(tag);
+            }
+            catch (Exception)
+            {
+                return "<html>No content</html>";
+            }
+            string res = html.ReadAsStringAsync().Result;
+            //List<string> list = res.Split(',').ToList();
+            return res;
+        }
+
         List<string> IPhotoUIHelper.getUrlList()
         {
             throw new NotImplementedException();

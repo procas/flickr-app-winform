@@ -27,5 +27,17 @@ namespace FlickrWFA.Service
             }
             return restResponse.Content;
         }
+        public HttpContent GetHtml(string tag)
+        {
+            string url = "https://flickr-app-08.herokuapp.com/GetPhoto/GetFlickr/"+tag;
+            var request = new HttpRequestMessage(HttpMethod.Get, url);
+            var restResponse = client.SendAsync(request).Result;
+            if (!restResponse.IsSuccessStatusCode)
+            {
+                Console.WriteLine("Unable to fetch html");
+                throw new Exception("Unable to fetch html");
+            }
+            return restResponse.Content;
+        }
     }
 }
