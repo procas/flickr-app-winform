@@ -28,3 +28,18 @@ C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe.ma
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.application
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.pdb
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.exe.config
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.exe.manifest
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.application
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.exe
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.pdb
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.AssemblyReference.cache
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.PhotoUI.resources
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.Properties.Resources.resources
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.GenerateResource.cache
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.CoreCompileInputs.cache
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe.manifest
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.application
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe
+C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.pdb

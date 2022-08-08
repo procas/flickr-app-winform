@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlickrWFA.exe" size="74224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlickrWFA.exe" size="72688">
       <assemblyIdentity name="FlickrWFA" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3/NxIUVziYui8igfBEN+X0XmapoVZ1JdvKTYHqB0rB0=</dsig:DigestValue>
+        <dsig:DigestValue>o/U52WQuP4EU5kIGqoWJgvBwoMMwz1t9618cyP+auqE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="FlickrWFA.exe.config" size="184">
+  <file name="FlickrWFA.exe.config" size="306">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
+      <dsig:DigestValue>zWisalFMwfhMW44+8/N53pPXVmiCXuccpucXIoYQ4Eg=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

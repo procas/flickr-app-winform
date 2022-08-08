@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj": {}
+    "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj": {
+    "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj",
+        "projectUniqueName": "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj",
         "projectName": "FlickrWFATest",
-        "projectPath": "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj",
-        "packagesPath": "C:\\Users\\Diabo\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFATest\\obj\\",
+        "projectPath": "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFATest\\FlickrWFATest.csproj",
+        "packagesPath": "C:\\Users\\Proma_Mukherjee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFATest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Diabo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Proma_Mukherjee\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://artifacts.dell.com/artifactory/api/nuget/omcs01-1000702-nuget-prd-virtual": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj": {
-                "projectPath": "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj"
+              "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj": {
+                "projectPath": "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj"
               }
             }
           }
@@ -84,11 +86,11 @@
         }
       }
     },
-    "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj": {
+    "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj",
+        "projectUniqueName": "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj",
         "projectName": "FlickrWFA",
-        "projectPath": "C:\\Code\\Flicker Project\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj",
+        "projectPath": "C:\\Users\\Proma_Mukherjee\\source\\flickr_winform\\flicker-app-winform\\FlickrWFA\\FlickrWFA.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}

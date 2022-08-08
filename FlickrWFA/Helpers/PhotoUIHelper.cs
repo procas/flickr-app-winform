@@ -16,21 +16,6 @@ namespace FlickrWFA.Helpers
         {
             restClientProvider = new RestClientProvider();
         }
-        public List<string> getUrlList(string tag)
-        {
-            HttpContent urls;
-            try
-            {
-                urls = restClientProvider.GetUrls(tag);
-            }
-            catch(Exception)
-            {
-                return new List<string>();
-            }
-            string res = urls.ReadAsStringAsync().Result;
-            List<string> list = res.Split(',').ToList();
-            return list;
-        }
 
         public string getHtml(string tag)
         {

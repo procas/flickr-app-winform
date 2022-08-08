@@ -12,15 +12,15 @@ namespace FlickrWFATest
         [InlineData("nature")]
         public void Test1(string first)
         {
-            List<string> urlList = photoUIHelper.getUrlList(first);
-            Assert.NotNull(urlList);
+            string html = photoUIHelper.getHtml(first);
+            Assert.NotNull(html);
         }
 
         [Fact]
         public void Test2()
         {
-            List<string> urlList = photoUIHelper.getUrlList("");
-            Assert.Empty(urlList);
+            string html = photoUIHelper.getHtml("");
+            Assert.Equal("<html>No content</html>", html);
 
         }
 
