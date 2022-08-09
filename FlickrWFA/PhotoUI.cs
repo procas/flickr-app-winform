@@ -28,6 +28,7 @@ namespace FlickrWFA
             this.Width = MAX_SIZE;
             this.Height = MAX_SIZE;
             photoUIHelper = new PhotoUIHelper();
+            //this.photoUIHelper = photoUIHelper;
             this.webBrowser = webBrowser1;
             this.label = label1;
             presenter = new Presenter(this);
@@ -43,7 +44,7 @@ namespace FlickrWFA
             set
             {
                 webBrowser.ScrollBarsEnabled = false;
-                label1.Text = "Default images on Red:\n";
+                label1.Text = "Default images on nature:\n";
                 webBrowser.DocumentText = value;
             }
         }

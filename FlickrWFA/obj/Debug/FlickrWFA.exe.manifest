@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlickrWFA.exe" size="80368">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FlickrWFA.exe" size="18416">
       <assemblyIdentity name="FlickrWFA" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BJ8/ey/W1HmpZzVblm33vvRRSlDfS7mVHI4yhjev/gU=</dsig:DigestValue>
+        <dsig:DigestValue>NIsiLqEKzRZI1R24eXJ+k+jdJsy775aMWmmZv/JLdBc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

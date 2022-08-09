@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Configuration;
 namespace FlickrWFA.Service
 {
-    public class RestClientProvider
+    public class RestClientProvider : IRestClientProvider
     {
         private readonly HttpClient client;
         public RestClientProvider()

@@ -16,22 +16,21 @@ namespace FlickrWFATest
         }
         [Theory]
         [InlineData("nature")]
-        public void Test1(string first)
+        public void Should_NotNull(string first)
         {
             string html = photoUIHelper.getHtml(first);
-             
             Assert.NotNull(html);
         }
 
         [Fact]
-        public void Test2()
+        public void Should_DefaultValue()
         {
             string html = photoUIHelper.getHtml("");
             Assert.Equal("<html>No content</html>", html);
 
         }
         [Fact]
-        public void Mock()
+        public void UI_TDD()
         {
             var mock = new Mock<IView>();
             mock

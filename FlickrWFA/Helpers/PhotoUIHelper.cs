@@ -14,7 +14,7 @@ namespace FlickrWFA.Helpers
         private readonly RestClientProvider restClientProvider;
         public PhotoUIHelper()
         {
-            restClientProvider = new RestClientProvider();
+            this.restClientProvider = new RestClientProvider();
         }
 
         public string getHtml(string tag)
@@ -31,11 +31,6 @@ namespace FlickrWFA.Helpers
             string res = html.ReadAsStringAsync().Result;
             //List<string> list = res.Split(',').ToList();
             return res;
-        }
-
-        List<string> IPhotoUIHelper.getUrlList()
-        {
-            throw new NotImplementedException();
         }
     }
 }

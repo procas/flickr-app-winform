@@ -8,6 +8,6 @@ namespace FlickrWFA.Helpers
 {
     public interface IPhotoUIHelper
     {
-        List<string> getUrlList();
+        public string getHtml(string tag);
     }
 }

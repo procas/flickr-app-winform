@@ -36,7 +36,6 @@ C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.AssemblyReference.cache
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.SuggestedBindingRedirects.cache
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.PhotoUI.resources
-C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.Properties.Resources.resources
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.GenerateResource.cache
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.CoreCompileInputs.cache
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe.manifest
