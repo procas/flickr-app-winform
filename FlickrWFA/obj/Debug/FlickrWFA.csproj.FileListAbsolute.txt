@@ -21,7 +21,6 @@ C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\FlickrWFA.pdb
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.AssemblyReference.cache
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.SuggestedBindingRedirects.cache
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.PhotoUI.resources
-C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.Properties.Resources.resources
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.GenerateResource.cache
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.CoreCompileInputs.cache
 C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.exe.manifest
@@ -51,3 +50,12 @@ C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Proma_Mukherjee\source\flickr_winform\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.CopyComplete
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\Castle.Core.dll
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\Moq.dll
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\Castle.Core.xml
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\Moq.xml
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Code\Flicker Project\flicker-app-winform\FlickrWFA\obj\Debug\FlickrWFA.csproj.CopyComplete
