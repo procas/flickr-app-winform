@@ -24,9 +24,9 @@ namespace FlickrWFA.Helpers
             {
                 html = restClientProvider.GetHtml(tag);
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                return "<html>No content</html>";
+                return e.StackTrace;
             }
             string res = html.ReadAsStringAsync().Result;
             //List<string> list = res.Split(',').ToList();
